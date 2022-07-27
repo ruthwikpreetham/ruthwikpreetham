@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ruthwikpreetham
+- 👋 Hi, I’m ruthwik preetham
+- DC Analyst at Deloitte.
 
 
 <!---
